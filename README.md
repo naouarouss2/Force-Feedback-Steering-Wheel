@@ -77,16 +77,21 @@ Remixing is also allowed, as long as the original project is linked and credited
 
 ## Credits ❤️
 
-Project made by Oussama NAOUAR
-Made as part of the HackClub Blueprint program, asking for a grant.
+Project made by **Oussama NAOUAR**
+
+Total logged working time : **~68hrs**
+
+Made as part of the **HackClub Blueprint** program, asking for a grant.
 
 ## BOM 💵
 
-This table format below is slightly different from what I originally made in Google Sheets, so to understand it better, I would recommend checking out [BOM.pdf](BOM.pdf)
+This table format below is slightly different from what I originally made in Google Sheets. To to understand it better, I would recommend checking out [BOM.pdf](BOM.pdf)
 
-Prices shown below are non-discounted prices. These may vary, especially on Aliexpress and other non-local shops.
+All prices and shippings costs below are shown in **USD**. For local Tunisian shops, prices and costs were **converted from TND to USD**, based on the exchange rates between **17-12-2025** and **16-12-2025**.
 
-Shipping costs shown below are indicative, based on what Aliexpress and other non-local shops/manufacturers displayed. These costs may change.
+Prices shown below are **non-discounted** prices. These may vary, especially on Aliexpress and other non-local shops.
+
+Shipping costs shown below are **indicative**, based on what Aliexpress and other non-local shops/manufacturers displayed. **These costs may change**.
 
 |Type                    |Component name           |Product description                                                       |Shop / Manufacturer      |Local|URL                                                                                                                                     |Unit price|Shipping|Product Amount|Product Total (excluding shipping)|Product Total (with shipping)|
 |------------------------|-------------------------|--------------------------------------------------------------------------|-------------------------|-----|----------------------------------------------------------------------------------------------------------------------------------------|----------|--------|--------------|----------------------------------|-----------------------------|
