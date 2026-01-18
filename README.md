@@ -93,8 +93,6 @@ Prices shown below are **non-discounted** prices. These may vary, especially on 
 
 Shipping costs shown below are **indicative**, based on what Aliexpress and other non-local shops/manufacturers displayed. **These costs may change**.
 
-I tried to maximize sourcing parts from local shops to minimize the risk of getting very high customs fees, and some components would turn out more expensive anyways if I source them from Aliexpress excluding customs fees.
-
 Articles shown as (x2) are originally only sold as single items, not a 2pcs bundle, with a x2 quantity. And that is done to show the most accurate pricing and shipping fee.
 
 |Type                    |Component name           |Product description                                                       |Shop / Manufacturer      |Local|URL                                                                                                                                     |Unit price|Shipping|Product Amount|Product Total (excluding shipping)|Product Total (with shipping)|
