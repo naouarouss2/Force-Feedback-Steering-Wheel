@@ -1,4 +1,4 @@
-In this folder, you will find the firmware for the wheelbase, as well as the firmware for the steering wheel itself.
+In this folder, you will find the firmware for the ~wheelbase~, as well as the firmware for the steering wheel itself.
 
 **Disclaimer ⚠️ :** None of these firmwares had been tested on hardware.
 
