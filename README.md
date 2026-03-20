@@ -53,6 +53,9 @@ To minimize wiring and make things simpler and cleaner inside, I made a PCB for 
 ### Steering wheel wiring diagram (made on KiCad, but no PCB)
 <img width="1148" height="702" alt="Screenshot 2026-01-15 210945" src="https://github.com/user-attachments/assets/2a97dabc-60ae-4d8b-8e51-c8ebc8299abd" />
 
+## Wheelbase Firmware 💡
+For the wheelbase, I will be using [OpenFFBoard](https://github.com/Ultrawipf/OpenFFBoard)
+
 ## Disclaimer ⚠️
 
 **This project is still under development.**
